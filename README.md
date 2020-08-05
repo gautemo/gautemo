@@ -2,7 +2,7 @@
 
 <div class="intro">
   <h2 class="name">My name is <b>Gaute Meek Olsen</b></h2>
-  <img src="gaute.jpg" alt="image of me"/>
+  <img src="gaute.jpg" alt="image of me" height="100" width="100" style="object-fit:cover;border-radius:50%;"/>
 </div>
 
 ## You can find me here 👇
